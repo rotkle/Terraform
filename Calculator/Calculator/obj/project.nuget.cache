@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5kliH5hMuCsDyULoFpf1p6C0a7NXZwrqjBwBN/1oHDJBDRVcNvoNbo6DIYZcMT1eZCwVt5sys8nNLZr3Sc+RVg==",
+  "success": true,
+  "projectFilePath": "/Users/rotkle/Terraform/Calculator/Calculator/Calculator.csproj",
+  "expectedPackageFiles": [
+    "/Users/rotkle/.nuget/packages/amazon.lambda.core/2.1.0/amazon.lambda.core.2.1.0.nupkg.sha512",
+    "/Users/rotkle/.nuget/packages/amazon.lambda.serialization.json/2.1.0/amazon.lambda.serialization.json.2.1.0.nupkg.sha512",
+    "/Users/rotkle/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.3.0/amazon.lambda.serialization.systemtextjson.2.3.0.nupkg.sha512",
+    "/Users/rotkle/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

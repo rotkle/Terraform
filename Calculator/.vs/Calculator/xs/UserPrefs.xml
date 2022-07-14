@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{7B377258-2ED4-4A37-A403-FAE80151903F}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calculator/Function.cs">
+    <Files>
+      <File FileName="Calculator/Class1.cs" Line="52" Column="2" />
+      <File FileName="Calculator.Test/UnitTest1.cs" Line="89" Column="47" />
+      <File FileName="Calculator/InputModel/FunctionInput.cs" Line="7" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Calculator" expanded="True">
+            <Node name="Calculator" expanded="True">
+              <Node name="InputModel" expanded="True" />
+            </Node>
+            <Node name="Calculator.Test" expanded="True">
+              <Node name="Usings.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Calculator" expanded="True">
+            <Node name="Calculator.Test" expanded="True">
+              <Node name="Calculator.Test" expanded="True">
+                <Node name="FunctionTest" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Calculator.Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/rotkle/Terraform/Calculator/Calculator.Test/FunctionTest.cs" relfile="Calculator.Test/FunctionTest.cs" line="86" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
